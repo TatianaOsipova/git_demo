@@ -1,0 +1,4 @@
+- thing to do:
+
+- practice Java
+- practice GH
