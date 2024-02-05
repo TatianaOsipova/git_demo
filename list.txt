@@ -3,5 +3,5 @@
 - practice Java
 - practice GH
 
-- new thing form GH
-- do thise things
+- new thing from GH
+- do these things
